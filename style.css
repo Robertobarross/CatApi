@@ -1,0 +1,46 @@
+/* Estilizando o body */
+body{
+    background-image: linear-gradient(to right, #a2a6a7 70%, #afaed8);
+}
+
+/* Estilizando h1 */
+h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    color: #6A5ACD;
+}
+
+/* Estilizando o main */
+main{
+    width: 50%;
+    height: auto;
+    border: 1px solid #a2a6a7;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Estilizando a imagem */
+img{
+    width: 100%;
+    height: 480px;
+    border: 4px solid #6A5ACD;
+    border-radius: 10px;
+}
+
+/* Estilizando o botão */
+button{
+    font-size: 15px;
+    font-family: Arial;
+    width: auto;
+    padding: 10px;
+    color: white;
+    background-color: #6A5ACD;
+    border-radius: 5px;
+    border: #6A5ACD;
+    margin-left: 43%;
+}
+
+button:hover{
+    background-color: turquoise;
+}
