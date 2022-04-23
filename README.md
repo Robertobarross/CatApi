@@ -1,2 +1,2 @@
 # CatApi
- Consumindo CatApi com javaScript
+ Consumindo CatApi com JavaScript
